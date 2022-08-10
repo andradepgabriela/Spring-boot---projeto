@@ -9,5 +9,4 @@ public class SistemaGerenciadorDeTimesApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SistemaGerenciadorDeTimesApplication.class, args);
 	}
-
 }
